@@ -34,14 +34,13 @@ Meu objetivo é seguir na área acadêmica e, em breve, atuar também no ensino 
 
 ---
 
-## 📈 Estatísticas GitHub
+## 📊 Estatísticas GitHub
 
-![Snake animation](https://github.com/marlonfanger/marlonfanger/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marlon-greg/marlon-greg/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marlonfanger&show_icons=true&theme=radical&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonfanger&layout=compact&langs_count=8&theme=radical"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon-greg&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-greg&layout=compact&theme=radical)
 
 ---
 
