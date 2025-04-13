@@ -37,7 +37,20 @@ Meu objetivo é seguir na área acadêmica e, em breve, atuar também no ensino 
 
 ## 📈 Estatísticas GitHub
 
-![Snake animation](https://github.com/marlon-greg/marlon-greg/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marlon-greg&show_icons=true&theme=radical&count_private=true"/>
