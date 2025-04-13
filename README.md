@@ -13,7 +13,7 @@ Desde os 8 anos, quando descobri minha paixão pelos computadores, trilho uma jo
 Sou formado em Redes de Computadores pela FATEC, técnico em Informática pelo IFSP e atualmente professor no curso técnico de Desenvolvimento de Sistemas no SENAI.
 
 Sempre em busca de evolução, estudo continuamente para entregar o melhor conteúdo e formar profissionais cada vez mais preparados.  
-Meu objetivo é seguir na área acadêmica e, em breve, atuar também no ensino superior.
+Meu objetivo é seguir na área acadêmica e, em breve, atuar também no ensino superior!
 
 ---
 
