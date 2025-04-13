@@ -1,3 +1,7 @@
+<!-- Banner estilo Matrix -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="600"/>
+</p>
 
 # 👨‍💻 Marlon Furlan Palata Fanger Rodrigues
 
@@ -9,11 +13,11 @@
 
 ## ✨ Sobre Mim
 
-Desde os 8 anos, quando descobri minha paixão pelos computadores, trilho uma jornada intensa na área de Tecnologia da Informação!  
+Desde os 8 anos, quando descobri minha paixão pelos computadores, trilho uma jornada intensa na área de Tecnologia da Informação.  
 Sou formado em Redes de Computadores pela FATEC, técnico em Informática pelo IFSP e atualmente professor no curso técnico de Desenvolvimento de Sistemas no SENAI.
 
 Sempre em busca de evolução, estudo continuamente para entregar o melhor conteúdo e formar profissionais cada vez mais preparados.  
-Meu objetivo é seguir na área acadêmica e, em breve, atuar também no ensino superior!
+Meu objetivo é seguir na área acadêmica e, em breve, atuar também no ensino superior.
 
 ---
 
@@ -36,6 +40,8 @@ Meu objetivo é seguir na área acadêmica e, em breve, atuar também no ensino 
 ---
 
 ## 📈 Estatísticas GitHub
+
+![Snake animation](https://github.com/marlon-greg/marlon-greg/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marlon-greg&show_icons=true&theme=radical&count_private=true"/>
@@ -74,4 +80,4 @@ Atuação nos cursos técnicos de Desenvolvimento de Sistemas e Administração,
 
 ---
 
-> “Vamos conectar e impulsionar juntos o futuro e avanço da Tecnologia da Informação!”
+> *"Não é o código... é o programador por trás dele. A Matrix é sua agora."* 👾
