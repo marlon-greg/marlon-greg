@@ -17,3 +17,7 @@ jobs:
           github_user_name: marlon-greg
           outputs: |
             ./github-contribution-grid-snake.svg
+
+            ./github-contribution-grid-snake-dark.svg
+          color_snake: '#eaeaea'
+          color_dots: '#555555'
