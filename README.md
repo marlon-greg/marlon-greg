@@ -1,6 +1,6 @@
 <!-- Banner estilo Matrix -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="500"/>
 </p>
 
 # 👨‍💻 Marlon Furlan Palata Fanger Rodrigues
