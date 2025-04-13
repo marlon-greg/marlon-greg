@@ -9,7 +9,7 @@
 
 ## ✨ Sobre Mim
 
-Desde os 8 anos, quando descobri minha paixão pelos computadores, trilho uma jornada intensa na área de Tecnologia da Informação.  
+Desde os 8 anos, quando descobri minha paixão pelos computadores, trilho uma jornada intensa na área de Tecnologia da Informação!  
 Sou formado em Redes de Computadores pela FATEC, técnico em Informática pelo IFSP e atualmente professor no curso técnico de Desenvolvimento de Sistemas no SENAI.
 
 Sempre em busca de evolução, estudo continuamente para entregar o melhor conteúdo e formar profissionais cada vez mais preparados.  
