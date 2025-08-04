@@ -50,6 +50,7 @@ Meu objetivo é seguir na área acadêmica e, em breve, atuar também no ensino 
 
 ## 📚 Formação Acadêmica
 
+- 📘 **FACULDADE LÍBANO** – Pós-graudação em Segurança da Informação *(2025)*
 - 📘 **FATEC Indaiatuba** – Tecnólogo em Análise e Desenvolvimento de Sistemas *(2024 - 2026)*
 - 📘 **FATEC Indaiatuba** – Tecnólogo em Redes de Computadores *(2017 - 2020)*
 - 📘 **IFSP** – Técnico em Informática *(2012 - 2013)*
