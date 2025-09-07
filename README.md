@@ -31,6 +31,7 @@ Meu objetivo é seguir na área acadêmica e, em breve, atuar também no ensino 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-4479A1?style=flat&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4479A1?style=flat&logo=vue&logoColor=white)
 
 ### 🔧 Foco em:
 - 🤖 Robótica Educacional e Projetos Makers
