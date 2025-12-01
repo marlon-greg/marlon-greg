@@ -5,7 +5,7 @@
 
 # 👨‍💻 Marlon Furlan Palata Fanger Rodrigues
 
-🎓 Professor de Desenvolvimento de Sistemas | Apaixonado por Tecnologia  
+🎓 Professor de Desenvolvimento de Sistemas 
 📍 Indaiatuba, SP, Brasil  
 ✉️ marlonfanger@gmail.com • [LinkedIn](https://www.linkedin.com/in/marlonfangerrodrigues)
 
