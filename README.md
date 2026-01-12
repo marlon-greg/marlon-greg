@@ -41,15 +41,6 @@ Meu objetivo é seguir na área acadêmica e, em breve, atuar também no ensino 
 
 ---
 
-## 📈 Estatísticas GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marlon-greg&show_icons=true&theme=radical&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-greg&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
----
-
 ## 📚 Formação Acadêmica
 
 - 📘 **FACULDADE LÍBANO** – Pós-graudação em Segurança da Informação *(2025)*
