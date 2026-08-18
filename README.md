@@ -1,5 +1,8 @@
 # Marlon Furlan Palata Fanger Rodrigues
-
+<!-- Banner estilo Matrix -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300"/>
+</p>
 **Professor de Desenvolvimento de Sistemas — SENAI | Professor e Coordenação de TI — FATEC Indaiatuba**
 
 marlonfanger@gmail.com · [linkedin.com/in/marlonfangerrodrigues](https://www.linkedin.com/in/marlonfangerrodrigues)
