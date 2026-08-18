@@ -10,7 +10,7 @@ marlonfanger@gmail.com · [linkedin.com/in/marlonfangerrodrigues](https://www.li
 
 Trabalho com Tecnologia da Informação desde a adolescência, quando comecei a mexer em computadores por conta própria. De lá pra cá, construí um caminho que passa por suporte técnico, desenvolvimento de sistemas e, hoje, ensino técnico e superior.
 
-Sou formado em Redes de Computadores e em Análise e Desenvolvimento de Sistemas pela FATEC, técnico em Informática pelo IFSP, e atuo simultaneamente como professor no SENAI e na FATEC Indaiatuba, além de responder pela coordenação de TI desta última. Gosto de estar nos dois lados da sala de aula ao mesmo tempo: ensinando e ainda estudando, o que me mantém atualizado e mais próximo da realidade dos alunos.
+Sou formado em Redes de Computadores e em Análise e Desenvolvimento de Sistemas pela FATEC, técnico em Informática pelo IFSP, e atuo simultaneamente como professor no SENAI e na FATEC Indaiatuba. Gosto de estar nos dois lados da sala de aula ao mesmo tempo: ensinando e ainda estudando, o que me mantém atualizado e mais próximo da realidade dos alunos.
 
 ---
 
